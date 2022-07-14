@@ -6,8 +6,8 @@ public class HelloWorld {
 		int a = 10;
 		int b = 20;
 		
-		// a + bÀÇ ÇÕÀÌ ³ªÅ¸³ªµµ·Ï ¾Æ·¡ ÄÚµå¿¡ ¹İ¿µ ºÎÅ¹µå¸³´Ï´Ù.
-		System.out.println("ÇÕ : " + (a + b));
+		
+		System.out.println("í•©" +(a+b));
 	}
 
 }
